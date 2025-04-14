@@ -1,0 +1,32 @@
+variables
+----------------------------------------
+-> A variable is a name that refers to a value
+-> It is the name for a value for future use
+a = 10
+a - variable
+= assignment
+10 - value
+
+*)consists of letters,digits & underscore(_)
+*) dosen't start with digit
+
+operations & Expressions
+--------------------------------------------
+-> Operator is a special symbol that represents computations like addition, multiplication or some other mathmatical operations
++ -> Addition
+- -> sub
+* -> Mul
+/ -> div
+% -> modules (remainder)
+// -> floor division
+** -> exponent ( power)
+
+*)Python follow PEMDAS rule 
+
+PEMDAS
+p - paranthasis -()
+E- Exponent - pow
+M - Mul
+D - Div
+A - Addition
+s - Sub
